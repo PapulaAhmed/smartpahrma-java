@@ -126,7 +126,7 @@
 <!-- Footer Section -->
 <footer>
     <div class="container">
-        <p>Made by <b>Sahand N. Mohammed</b> & <b>Papula Fouad</b> & <b>Rawa Rebwar</b> & <b>Meer Hoshyar</b></p>
+        <p>Made by <b>Papula Fouad</b></p>
     </div>
 </footer>
 
