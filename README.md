@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 ### Clone the Repository
 Start by cloning the SmartPharma repository from GitHub to your local machine.
 
-```git clone https://github.com/SahandMohammed/smartpharma-java.git```
+```git clone https://github.com/PapulaAhmed/smartpharma-java.git```
 
 ### Extract the Project
 If the repository is downloaded as a zip file, extract it to a suitable location on your computer.
